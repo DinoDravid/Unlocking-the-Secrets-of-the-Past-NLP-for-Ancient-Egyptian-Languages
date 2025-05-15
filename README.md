@@ -1,2 +1,4 @@
 # Unlocking-the-Secrets-of-the-Past-NLP-for-Ancient-Egyptian-Languages
 Unlocking the Secrets of the Past: NLP for Ancient Egyptian Languages
+This project focuses on the application of Natural Language Processing (NLP) techniques to decipher and translate Ancient Egyptian hieroglyphs. Using image processing and machine learning algorithms, the system is designed to automatically detect and recognize symbols from hieroglyphic images, which are then translated into their corresponding meanings in modern English. By utilizing a combination of OpenCV for image processing and TensorFlow for symbol recognition, this project aims to unlock the secrets of the past by facilitating the understanding of ancient Egyptian scripts. The model recognizes both phonetic symbols and logograms used in hieroglyphs, offering a valuable tool for historians, archaeologists, and linguists. 
+https://colab.research.google.com/drive/1OsvsntErGIPC8RzapeLyssXpmKlG1Tez?usp=sharing
